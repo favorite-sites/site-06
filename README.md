@@ -2,8 +2,6 @@
 
 # 대학수학 강의
 
-http://www.kocw.net/home/search/kemView.do?kemId=1179442&ar=relateCourse
-
 공업수학1 한양대학교 이민식
 
 http://www.kocw.net/home/cview.do?mty=p&kemId=1271327&ar=relateCourse
