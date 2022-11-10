@@ -2,6 +2,10 @@
 
 # 대학수학 강의
 
+// 만만한 수학TV [이상준 경희대 교수]
+
+https://www.youtube.com/channel/UCDMP0s-HpSYf6ey7rQ1EN5Q/playlists
+
 공업수학1 한양대학교 이민식
 
 http://www.kocw.net/home/cview.do?mty=p&kemId=1271327&ar=relateCourse
