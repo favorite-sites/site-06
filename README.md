@@ -1,5 +1,17 @@
 # site-06 
 
+# 수학식 리스트
+
+https://www.matematica.pt/en/useful/math-formulas.php
+
+https://www.geeksforgeeks.org/basic-math-formulas/
+
+https://www.cuemath.com/math-formulas/
+
+https://mathtocode.com/
+
+https://github.com/Jam3/math-as-code
+
 # 대학수학 강의
 
 // 만만한 수학TV [이상준 경희대 교수]
