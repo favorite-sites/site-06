@@ -1,6 +1,6 @@
 # site-06 
 
-# 수학식 리스트
+# 수학식 코드 리스트
 
 https://www.matematica.pt/en/useful/math-formulas.php
 
